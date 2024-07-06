@@ -31,10 +31,10 @@
 //firabase & Wifi
 #include "addons/TokenHelper.h"
 #include "addons/RTDBHelper.h"
-#define WIFI_SSID "PEB"
-#define WIFI_PASSWORD "pembalap123"
-#define API_KEY "AIzaSyBw7Ph__ERZhfIrZku-NocHnVIIheUrhxI"
-#define DATABASE_URL "https://arduino-iot-alcohol-sensor-default-rtdb.firebaseio.com" 
+#define WIFI_SSID "xx"
+#define WIFI_PASSWORD "xx"
+#define API_KEY "xxx"
+#define DATABASE_URL "xx" 
 FirebaseData fbdo;
 FirebaseAuth auth;
 FirebaseConfig config;
